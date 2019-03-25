@@ -1,0 +1,11 @@
+C:\Users\sarbjit\source\repos\ConsoleApp\CodeChallenge\bin\Debug\netcoreapp2.1\CodeChallenge.deps.json
+C:\Users\sarbjit\source\repos\ConsoleApp\CodeChallenge\bin\Debug\netcoreapp2.1\CodeChallenge.runtimeconfig.json
+C:\Users\sarbjit\source\repos\ConsoleApp\CodeChallenge\bin\Debug\netcoreapp2.1\CodeChallenge.runtimeconfig.dev.json
+C:\Users\sarbjit\source\repos\ConsoleApp\CodeChallenge\bin\Debug\netcoreapp2.1\CodeChallenge.dll
+C:\Users\sarbjit\source\repos\ConsoleApp\CodeChallenge\bin\Debug\netcoreapp2.1\CodeChallenge.pdb
+C:\Users\sarbjit\source\repos\ConsoleApp\CodeChallenge\obj\Debug\netcoreapp2.1\CodeChallenge.csprojAssemblyReference.cache
+C:\Users\sarbjit\source\repos\ConsoleApp\CodeChallenge\obj\Debug\netcoreapp2.1\CodeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\sarbjit\source\repos\ConsoleApp\CodeChallenge\obj\Debug\netcoreapp2.1\CodeChallenge.AssemblyInfoInputs.cache
+C:\Users\sarbjit\source\repos\ConsoleApp\CodeChallenge\obj\Debug\netcoreapp2.1\CodeChallenge.AssemblyInfo.cs
+C:\Users\sarbjit\source\repos\ConsoleApp\CodeChallenge\obj\Debug\netcoreapp2.1\CodeChallenge.dll
+C:\Users\sarbjit\source\repos\ConsoleApp\CodeChallenge\obj\Debug\netcoreapp2.1\CodeChallenge.pdb

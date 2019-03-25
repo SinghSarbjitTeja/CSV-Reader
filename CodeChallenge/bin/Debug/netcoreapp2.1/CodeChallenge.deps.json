@@ -1,0 +1,77 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "9d8b63aa6bc9a5aaf0face8a27ce41b7a22c99ac"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "CodeChallenge/1.0.0": {
+        "dependencies": {
+          "MathNet.Numerics": "4.7.0",
+          "ServiceStack.Text.Core": "5.4.0"
+        },
+        "runtime": {
+          "CodeChallenge.dll": {}
+        }
+      },
+      "MathNet.Numerics/4.7.0": {
+        "runtime": {
+          "lib/netstandard2.0/MathNet.Numerics.dll": {
+            "assemblyVersion": "4.7.0.0",
+            "fileVersion": "4.7.0.0"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.4.0": {},
+      "ServiceStack.Text.Core/5.4.0": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.4.0",
+          "System.Runtime": "4.3.0"
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/ServiceStack.Text.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.4.0.0"
+          }
+        }
+      },
+      "System.Runtime/4.3.0": {}
+    }
+  },
+  "libraries": {
+    "CodeChallenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MathNet.Numerics/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Nmlzha0Tv/GnBELzUzjdlWrMpSmrAejD8D68A8sPuRpKIZ9Qn+nG5hAQByrich/uRL258P/4YVJ6gYWlsbUAWA==",
+      "path": "mathnet.numerics/4.7.0",
+      "hashPath": "mathnet.numerics.4.7.0.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vvVR/B08YVghQ4jHEloxqw2ZWzEGE1AOA5E0DioUM3ujbXz6FD3AfB/0Jl2ohJPd0nXYGwmPe1En6HTsSriq1A==",
+      "path": "microsoft.csharp/4.4.0",
+      "hashPath": "microsoft.csharp.4.4.0.nupkg.sha512"
+    },
+    "ServiceStack.Text.Core/5.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ltNfhP3PNrbdVU1wVFueSHzVqQ1/hbGGxoxSwvVO3IkjO+nrS6zQfPPfErvvSlngJKs5IpxFdlPlMRDF7Qs5JA==",
+      "path": "servicestack.text.core/5.4.0",
+      "hashPath": "servicestack.text.core.5.4.0.nupkg.sha512"
+    },
+    "System.Runtime/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JufQi0vPQ0xGnAczR13AUFglDyVYt4Kqnz1AZaiKZ5+GICq0/1MH/mO/eAJHt/mHW1zjKBJd7kV26SrxddAhiw==",
+      "path": "system.runtime/4.3.0",
+      "hashPath": "system.runtime.4.3.0.nupkg.sha512"
+    }
+  }
+}
